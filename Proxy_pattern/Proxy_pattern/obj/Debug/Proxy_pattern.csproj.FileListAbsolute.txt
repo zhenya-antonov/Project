@@ -1,0 +1,7 @@
+C:\Users\Zhenya\source\repos\Proxy_pattern\Proxy_pattern\bin\Debug\Proxy_pattern.exe.config
+C:\Users\Zhenya\source\repos\Proxy_pattern\Proxy_pattern\bin\Debug\Proxy_pattern.exe
+C:\Users\Zhenya\source\repos\Proxy_pattern\Proxy_pattern\bin\Debug\Proxy_pattern.pdb
+C:\Users\Zhenya\source\repos\Proxy_pattern\Proxy_pattern\obj\Debug\Proxy_pattern.csprojAssemblyReference.cache
+C:\Users\Zhenya\source\repos\Proxy_pattern\Proxy_pattern\obj\Debug\Proxy_pattern.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\source\repos\Proxy_pattern\Proxy_pattern\obj\Debug\Proxy_pattern.exe
+C:\Users\Zhenya\source\repos\Proxy_pattern\Proxy_pattern\obj\Debug\Proxy_pattern.pdb
